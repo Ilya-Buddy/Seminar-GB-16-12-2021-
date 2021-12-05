@@ -1,3 +1,5 @@
-You are very smart
+You are very smart.
+
+*Курсив.*
 
 Знакомство с контролем версий.
