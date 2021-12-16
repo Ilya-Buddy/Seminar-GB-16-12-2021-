@@ -1,4 +1,4 @@
-# You are very smart.
+# You are very smart. И удаленными репоз.
 
 Чтобы добавить абзац - # "Текст"
 
@@ -31,3 +31,7 @@
 ### Prosmotr spiska vetok
 
 Dlya togo chtoby 
+
+## Слияние веток - для слияния используется git merge
+
+
