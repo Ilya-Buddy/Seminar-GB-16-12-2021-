@@ -25,3 +25,9 @@
 Знакомство с контролем версий.
 
 Здесь должны быть аннотации, но что-то пошло не так...
+
+## Rabota s vetkami
+
+### Prosmotr spiska vetok
+
+Dlya togo chtoby 
