@@ -28,10 +28,11 @@
 
 ## Rabota s vetkami
 
-### Prosmotr spiska vetok
+### Prosmotr spiska vetok 
 
 Dlya togo chtoby 
 
-## Слияние веток - для слияния используется git merge
+## Sozdanie novoi vetki - git branch name
 
+## Слияние веток - для слияния используется git merge
 
